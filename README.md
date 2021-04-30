@@ -1,0 +1,1 @@
+# go-moduler-monolith-approach-evaluation

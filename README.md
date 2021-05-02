@@ -17,6 +17,7 @@ https://mozaicworks.com/blog/modular-monolith-microservices/
 https://dzone.com/articles/multi-module-monolithic-as-microservice
 
 Notice, following URL is JPN.
+
 https://speakerdeck.com/tarotaro0/jpn-multi-module-repository-in-golang
 
 # Guess

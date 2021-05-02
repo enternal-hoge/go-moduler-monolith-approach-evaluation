@@ -23,5 +23,6 @@ https://speakerdeck.com/tarotaro0/jpn-multi-module-repository-in-golang
 # Guess
 
 In the golang, multi-module can be realized by using go mod.
-Does not depends on REST API Framework.
+
+Also, Does not depends on REST API Framework.
 
